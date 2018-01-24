@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jules\documents\visual studio 2017\projects\bhophackyt\bhophackyt\source.cpp(53): warning C4715: 'getMod': not all control paths return a value
+  BhopHackYT.vcxproj -> c:\users\jules\documents\visual studio 2017\Projects\BhopHackYT\Debug\BhopHackYT.exe
+  BhopHackYT.vcxproj -> c:\users\jules\documents\visual studio 2017\Projects\BhopHackYT\Debug\BhopHackYT.pdb (Partial PDB)
