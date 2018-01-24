@@ -1,8 +1,0 @@
-﻿  Source.cpp
-  Generating code
-c:\users\jules\documents\visual studio 2017\projects\bhophackyt\bhophackyt\source.cpp(77): warning C4715: 'getMod': not all control paths return a value
-  3 of 15 functions (20.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  BhopHackYT.vcxproj -> C:\Users\Jules\Documents\Visual Studio 2017\Projects\BhopHackYT\Release\BhopHackYT.exe
