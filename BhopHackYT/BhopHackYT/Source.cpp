@@ -3,9 +3,6 @@
 #include <TlHelp32.h>
 
 using namespace std;
-//////////////////////////////////////////////////
-// BHOP HACK BY NULL TERMINATOR (YT TUTORIAL)  ///
-//////////////////////////////////////////////////
 
 //Handle for desired process
 HANDLE hProc;
@@ -119,8 +116,6 @@ int main()
 
 	//Get base address of client.dll so we can offset from it
 	DWORD clientDllBase = getMod("client.dll");
-
-	cout << "Bunnyhop hack by Null Terminator on YT\n Follow me @crying_softly :D\n";
 
 	//Main cheat loop
 	while (true)
